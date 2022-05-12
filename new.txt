@@ -1,0 +1,4 @@
+name - Marina Kirillova
+age - 27
+cat - Boris
+money - 10000000
